@@ -4,7 +4,7 @@
 version: 0.3.5 # NO TOCAR
 
 # HODL username
-username: "ivanbura" # < TU_USUARIO@hodl.ar
+username: "ivanbura"
 
 # NOSTR Settings
 # nostr: # Sin el # adelante
