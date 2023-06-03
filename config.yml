@@ -7,8 +7,8 @@ version: 0.3.5 # NO TOCAR
 username: "ivanbura"
 
 # NOSTR Settings
-# nostr: # Sin el # adelante
-#   npub: "TU_PUB" # Entre comillas dobles
+  nostr: # Sin el # adelante
+    npub: "npub14tn57p5s2rjy97ylqyzyfqlrh8fcrx32rld0l0cym4pjjwygseysxd7mxa"
 
 # Configuración Global
 html:
