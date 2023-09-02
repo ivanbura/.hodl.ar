@@ -46,7 +46,7 @@ blocks:
     url: https://github.com/ivanbura
 
   - title: Iris
-    icon: iris
+#   icon: iris
     url: https://iris.to/ivanbura
 
 # - title: Sitio Web
