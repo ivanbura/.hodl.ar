@@ -13,7 +13,7 @@ nostr:
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: "Links | Ivanbura" # Este es el Título que aparece en la pestaña de navegador
+  title: "Ivanbura - Mis perfiles" # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
 theme:
@@ -41,9 +41,9 @@ blocks:
     icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
     url: https://www.linkedin.com/in/ivan-buraczewski-145b9a28/
 
-# - title: Github
-#   icon: github
-#   url: https://github.com/TU-USUARIO
+- title: Github
+  icon: github
+  url: https://github.com/ivanbura
 
 # - title: Sitio Web
 #   icon: url
